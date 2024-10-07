@@ -10,9 +10,10 @@ The latest version of the Umbraco Back Office as supplied in the Umbraco NuGet p
 
 ## Our goals
 
-- Ensure no-one is excluded from using the Umbraco Back Office.
+- Ensure no-one is excluded from using the Umbraco Back Office and to provide an inclusive experience for all (essential for some, useful for all).
 - To encourage contributors to submit accessible pull requests.
 - Raise awareness of accessibility in the Umbraco community.
+- Provide guidance and tooling to make it easy for developers and content creators to create, and difficult to not create, accessible products and services in Umbraco.
 
 ## Success criteria
 
@@ -24,6 +25,8 @@ The latest version of the Umbraco Back Office as supplied in the Umbraco NuGet p
 - Auditing the Umbraco Backoffice.
 - Fixing issues found in the Umbraco Backoffice.
 - Raise the profile of accessibility within the Umbraco community.
+- Provide a design system, articles, and blogs on how to create accessible products and services in Umbraco.
+- Work on tooling which supports the above.
 
 ## Current activities
 
