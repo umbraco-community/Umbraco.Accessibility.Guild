@@ -45,7 +45,7 @@ Watch out for our team members giving talks at meetups and conferences.
 
 **Coordinator**: Mike Masey
 
-**Core Team Members:** Aimee Redmond, Blake Watt, Harry Dance, Jan Skovgaard, Jeremiah Bascue, Jonny Muir, Matt Begent, Mike Masey
+**Core Team Members:** Aimee Redmond, Blake Watt, Danny Lancaster, Harry Dance, Jan Skovgaard, Jeremiah Bascue, Jonny Muir, Matt Begent, Mike Masey
 
 ## Joining the team
 
