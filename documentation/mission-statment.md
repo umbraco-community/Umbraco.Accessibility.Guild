@@ -55,7 +55,7 @@ Whilst we do have "core" team members, we don't have a limit to how many people 
 
 All Community Team members must abide by the [Community Teams Agreement](https://community.umbraco.com/learn-about-the-community/community-teams/community-teams-agreement/).
 
-## How to get involved
+## Ways of contributing
 
 There are a number of ways you can get involved with helping the Accessibility Guild, such as;
 
