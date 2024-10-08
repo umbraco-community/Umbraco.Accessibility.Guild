@@ -41,6 +41,8 @@ The team commit to attending Umbraco hackathons, time and circumstances allowing
 
 Watch out for our team members giving talks at meetups and conferences.
 
+All our work is done in the open and you can find out what we are up to on the [Umbraco Accessibility Guild repo](https://github.com/umbraco-community/Umbraco.Accessibility.Guild/).
+
 ## Let's meet the team!
 
 **Coordinator**: Mike Masey
