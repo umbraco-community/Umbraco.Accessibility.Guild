@@ -51,6 +51,8 @@ Watch out for our team members giving talks at meetups and conferences.
 
 Whilst we do have "core" team members, we don't have a limit to how many people can be involved. If you would like to be involved with the core team, please do get in touch. We tend to have discussions on the [Umbraco Discord Server](https://discord.gg/umbraco) and monthly video calls to catch up and discuses progress and next steps every month or so.
 
+If you would like to apply to be a member please fill in the [application form](https://forms.gle/31HXkTEHTp43VaX97).
+
 ## Terms of agreement
 
 All Community Team members must abide by the [Community Teams Agreement](https://community.umbraco.com/learn-about-the-community/community-teams/community-teams-agreement/).
@@ -60,7 +62,7 @@ All Community Team members must abide by the [Community Teams Agreement](https:/
 There are a number of ways you can get involved with helping the Accessibility Guild, such as;
 
 - Adding Accessibility related issues to the [GitHub issue tracker](https://github.com/umbraco/Umbraco-CMS/issues).
-- Creating PR's to help fix known (or unknown) accessibility issues.
+- Creating PR's to help fix known (or unknown) accessibility issues using the tag "category/accessibility".
 - Testing the latest version of Umbraco for issues (When we are able to, we carry out a full accessibility audit of the backoffice too).
 - Get involved with discussions around, potentially, features and fixes for accessibility issues.
 
