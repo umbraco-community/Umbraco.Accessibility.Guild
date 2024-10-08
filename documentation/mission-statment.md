@@ -60,7 +60,7 @@ All Community Team members must abide by the [Community Teams Agreement](https:/
 There are a number of ways you can get involved with helping the Accessibility Guild, such as;
 
 - Adding Accessibility related issues to the GitHub issue tracker.
-Creating PR's to help fix known (or unknown) accessibility issues.
+- Creating PR's to help fix known (or unknown) accessibility issues.
 - Testing the latest version of Umbraco for issues (When we are able to, we carry out a full accessibility audit of the backoffice too).
 - Get involved with discussions around, potentially, features and fixes for accessibility issues.
 
