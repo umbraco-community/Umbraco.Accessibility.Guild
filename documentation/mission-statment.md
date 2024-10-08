@@ -64,9 +64,7 @@ There are a number of ways you can get involved with helping the Accessibility G
 - Testing the latest version of Umbraco for issues (When we are able to, we carry out a full accessibility audit of the backoffice too).
 - Get involved with discussions around, potentially, features and fixes for accessibility issues.
 
-You can find accessibility-related issues that need attention both in the Accessibility Team Trello Board, and the main Umbraco GitHub issues. The reason there is a separation is because when this project first began, there were too many issues to flood the GitHub issues with, so we need a place that would provide better focus.
 
-As more of the issues are resolved, hopefully, the requirement for a separate Trello board will no longer be required.
 
 ### Note
 
